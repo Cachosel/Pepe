@@ -16,7 +16,7 @@ public class Nombre {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO comentario de mierda
+        // TODO este no es un comentario de mierda
     }
     
 }
